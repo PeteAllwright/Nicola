@@ -1,0 +1,25 @@
+"${workspace_loc:/${ProjName}/src/lwIP_Demo/lwIP_port/include}"
+
+"${workspace_loc:/${ProjName}/src/lwIP_Demo/lwIP_port/netif}"
+
+"${workspace_loc:/${ProjName}/src/FreeRTOS_Source/include}"
+
+"${workspace_loc:/${ProjName}/src/FreeRTOS_Source/portable/GCC/ARM_CA9}"
+
+"${workspace_loc:/${ProjName}/src/lwIP_Demo/lwip-1.4.0/src/include/ipv4}"
+
+"${workspace_loc:/${ProjName}/src/lwIP_Demo/lwip-1.4.0/src/include}"
+
+"${workspace_loc:/${ProjName}/src/Full_Demo}"
+"${workspace_loc:/${ProjName}/src/Full_Demo/FreeRTOS-Plus-CLI}"
+
+"${workspace_loc:/${ProjName}/src/Full_Demo/Standard-Demo-Tasks/include}"
+
+"${workspace_loc:/${ProjName}/src}"
+
+
+
+Environment
+
+CWD current working directory
+PWD
